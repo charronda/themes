@@ -1,0 +1,18 @@
+body {
+  background-color: #F5F5F5;
+}
+
+footer {
+  background-color: #BEBEBE;
+  color: fff;
+  height: 10%;
+}
+
+nav {
+  font-size: 5em;
+  background-color: #BEBEBE;
+}
+
+.navbar .navbar-brand>li>a {
+    color: #9d9d9d;
+}
