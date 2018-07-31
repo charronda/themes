@@ -16,3 +16,8 @@ nav {
 .navbar .navbar-brand>li>a {
     color: #9d9d9d;
 }
+
+.logo {
+  width: 150px;
+  height: auto;
+}
